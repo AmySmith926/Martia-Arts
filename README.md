@@ -17,7 +17,7 @@ Javascript, JaSON, Jquery, CSS.
 First Page | Second Page | Third Page | Fouth Page
 -----------| ------------|------------|-----------|
 Martial Arts|Different Martial Arts Styles|Different level belts|Saved items
------------|-------------|------------|-----------|
+
 List of some of the deadliest styles including 2 images.|Contact form,images and a table of examples of different styles|Subscription form,radio button,and images.|List of the saved items.
 
 
